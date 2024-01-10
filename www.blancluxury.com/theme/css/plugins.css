@@ -1,0 +1,35 @@
+
+/* ----------------------------------------------------------------
+			[ All Css Plugins & Helper Classes File ]
+-----------------------------------------------------------------*/
+
+/* == bootstrap == */
+@import url("bootstrap.min.css");
+
+/* == animate css == */
+@import url("animate.css");
+
+/* == ionicons icon font == */
+@import url("ionicons.min.css");
+
+/* == pe-icon-7-stroke == */
+@import url("pe-icon-7-stroke.css");
+
+/* == flaticon font == */
+@import url("flaticon.css");
+
+/* == fontawesome icon font == */
+@import url("fontawesome-all.min.css");
+
+/* == justifiedGallery.min == */
+@import url("justifiedgallery.min.css");
+
+/* == YouTubePopUp == */
+@import url("youtubepopup.css");
+
+/* == slick carousel == */
+@import url("slick.css");
+@import url("slick-theme.css");
+
+/* == swiper.min font == */
+@import url("swiper.min.css");
